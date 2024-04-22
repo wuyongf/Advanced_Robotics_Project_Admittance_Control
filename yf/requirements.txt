@@ -1,0 +1,8 @@
+# ar_project requirements
+# Usage: pip install -r yf/requirements.txt
+
+mujoco
+ikpy
+scipy
+matplotlib
+pymodbus==2.5.3
